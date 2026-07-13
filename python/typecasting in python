@@ -1,0 +1,10 @@
+a = "31.2"
+b = float(a) # a but the type should be float
+t = type(b) 
+
+x = 31
+y = chr(31)
+#  in sting "31"
+
+print(t)
+print(type(y))
